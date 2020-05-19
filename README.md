@@ -2,7 +2,7 @@
 Sudoku Solver in Python3 (console based)
 
 # How it works?
-- The program uses [a link](https://en.wikipedia.org/wiki/Backtracking)
+- The program uses [Backtracking Algorithm](https://en.wikipedia.org/wiki/Backtracking)
 ## The process is the following:
   ### - Checks for the empty fields on the board
   ### - Gets empty field indicies and the index of the containing box.
