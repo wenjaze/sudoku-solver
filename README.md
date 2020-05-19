@@ -17,7 +17,7 @@ Sudoku Solver in Python3 (console based)
  * Just replace your desired sudoku board values in the given "board_values" 2D array variable in the code:
  ```python3
  board_values = [
-		      [0, 0, 0, 8, 7, 1, 0, 0, 0],
+	[0, 0, 0, 8, 7, 1, 0, 0, 0],
         [0, 4, 9, 0, 0, 0, 1, 0, 5],
         [2, 0, 8, 0, 0, 0, 0, 0, 0],
         [5, 0, 0, 7, 0, 6, 0, 0, 0],
