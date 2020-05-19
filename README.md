@@ -15,9 +15,9 @@ Sudoku Solver in Python3 (console based)
 
 # How to use it?
  Just replace your desired sudoku board values in the given "board_values" 2D array variable in the code then run:
- '''console
- foo@bar:~$ whoami
- '''
+'''console
+foo@bar:~$ whoami
+'''
  
    
 *I left the debugging prints in the code on purpose so it demonstrates what does the program do at that exact time*
