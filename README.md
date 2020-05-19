@@ -15,7 +15,7 @@ Sudoku Solver in Python3 (console based)
 
 # How to use it?
  Just replace your desired sudoku board values in the given "board_values" 2D array variable in the code then run:
- '''bash
+ '''console
  python3 sudoku.py
  '''
  
