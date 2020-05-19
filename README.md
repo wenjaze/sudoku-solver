@@ -8,7 +8,7 @@ Sudoku Solver in Python3 (console based)
    * Gets empty field indicies and the index of the containing box.
    * Tries values from 1-9 to the given indices
    * Checking 3 positional statements if they contain the desired value:
-    * BOX
-    * ROW
-    * COLUMN
+     * BOX
+     * ROW
+     * COLUMN
    * If it fits to the given idices it places it to our board. Otherwise it replaces the elements of the last box retroactively with incremented values.
