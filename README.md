@@ -4,9 +4,9 @@ Sudoku Solver in Python3 (console based)
 # How it works?
  The program uses [Backtracking Algorithm](https://en.wikipedia.org/wiki/Backtracking)
 * The process is the following:
-   * Checks for the empty fields on the board
+   * Checks for the empty fields on the board.
    * Gets empty field indicies and the index of the containing box.
-   * Tries values from 1-9 to the given indices
+   * Tries values from 1-9 to the given indices.
    * Checking 3 positional statements if they contain the desired value:
      * BOX
      * ROW
@@ -20,6 +20,6 @@ your@name:~$ python3 sudoku.py
 ```
  
    
-*I left the debugging prints in the code on purpose so it demonstrates what does the program do at that exact time*
+*I left the debugging prints in the code on purpose so it demonstrates what does the program do at that exact time.*
 
 
