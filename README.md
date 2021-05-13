@@ -1,5 +1,5 @@
 # SudokuSolver
-Sudoku Solver in Python3 (console based)
+Sudoku Solver in Python3 (CLI)
 
 # How it works?
  The program uses [Backtracking Algorithm](https://en.wikipedia.org/wiki/Backtracking)
